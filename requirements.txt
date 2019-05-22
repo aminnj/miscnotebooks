@@ -3,3 +3,6 @@ numpy==1.15.0
 numba==0.42.1
 matplotlib==2.2.4
 tqdm==4.26.0
+corner==2.0.1
+uproot==3.4.19
+uproot_methods==0.4.7
