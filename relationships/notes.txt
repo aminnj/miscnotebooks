@@ -1,0 +1,4 @@
+https://files.pushshift.io/reddit/comments/
+https://files.pushshift.io/reddit/comments/sample_data.json
+
+https://files.pushshift.io/reddit/submissions/
