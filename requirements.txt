@@ -7,4 +7,4 @@ corner==2.0.1
 uproot==3.4.19
 uproot_methods==0.4.7
 matplottery==1.0.6
-scipy==1.2.1
+scipy==1.10.0
